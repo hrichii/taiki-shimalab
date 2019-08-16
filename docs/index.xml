@@ -6,19 +6,10 @@
     <description>Recent content on Taiki&#39;s works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JA</language>
-    <lastBuildDate>Sat, 17 Aug 2019 00:35:57 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 23:49:04 +0900</lastBuildDate>
     
 	<atom:link href="/taiki-shimalab/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>About</title>
-      <link>/taiki-shimalab/about/about/</link>
-      <pubDate>Sat, 17 Aug 2019 00:35:57 +0900</pubDate>
-      
-      <guid>/taiki-shimalab/about/about/</guid>
-      <description>研究の中で作成したコードを分かり易くまとめたWebサイトです，</description>
-    </item>
     
     <item>
       <title>創傷画像を入力としたUNetによる組織型分類</title>
