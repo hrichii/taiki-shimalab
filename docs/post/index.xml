@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Taiki&#39;s works</title>
-    <link>http://hrichii.github.io/taiki-shimalab/post/</link>
+    <link>/taiki-shimalab/post/</link>
     <description>Recent content in Posts on Taiki&#39;s works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JA</language>
     <lastBuildDate>Fri, 16 Aug 2019 20:14:27 +0900</lastBuildDate>
     
-	<atom:link href="http://hrichii.github.io/taiki-shimalab/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/taiki-shimalab/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>猫か犬かを識別するCNNの注視領域推定</title>
-      <link>http://hrichii.github.io/taiki-shimalab/post/catordog/</link>
+      <link>/taiki-shimalab/post/catordog/</link>
       <pubDate>Fri, 16 Aug 2019 20:14:27 +0900</pubDate>
       
-      <guid>http://hrichii.github.io/taiki-shimalab/post/catordog/</guid>
+      <guid>/taiki-shimalab/post/catordog/</guid>
       <description> Source  Github Asgard(Asgardへのアクセスはリンクのアドレスをエクスプローラーに貼付)  </description>
     </item>
     

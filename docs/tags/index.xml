@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Taiki&#39;s works</title>
-    <link>http://hrichii.github.io/taiki-shimalab/tags/</link>
+    <link>/taiki-shimalab/tags/</link>
     <description>Recent content in Tags on Taiki&#39;s works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JA</language>
     
-	<atom:link href="http://hrichii.github.io/taiki-shimalab/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/taiki-shimalab/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>
