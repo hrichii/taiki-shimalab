@@ -1,4 +1,4 @@
-baseURL = "https://hrichii.github.io/taiki-shimalab/"
+baseURL = "http://example.com/taiki-shimalab/"
 languageCode = "en-us"
 title = "Taiki' works"
 theme = "minimal"
