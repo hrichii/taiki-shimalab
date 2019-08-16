@@ -3,15 +3,26 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>http://hrichii.github.io/taiki-shimalab/post/</loc>
+    <lastmod>2019-08-16T20:14:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrichii.github.io/taiki-shimalab/</loc>
+    <lastmod>2019-08-16T20:14:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>http://hrichii.github.io/taiki-shimalab/post/catordog/</loc>
+    <lastmod>2019-08-16T20:14:27+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>http://hrichii.github.io/taiki-shimalab/categories/</loc>
   </url>
   
   <url>
     <loc>http://hrichii.github.io/taiki-shimalab/tags/</loc>
-  </url>
-  
-  <url>
-    <loc>http://hrichii.github.io/taiki-shimalab/</loc>
   </url>
   
 </urlset>
