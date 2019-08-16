@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Abouts on Taiki&#39;s works</title>
+    <link>/taiki-shimalab/about/</link>
+    <description>Recent content in Abouts on Taiki&#39;s works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JA</language>
+    <lastBuildDate>Sat, 17 Aug 2019 00:35:57 +0900</lastBuildDate>
+    
+	<atom:link href="/taiki-shimalab/about/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About</title>
+      <link>/taiki-shimalab/about/about/</link>
+      <pubDate>Sat, 17 Aug 2019 00:35:57 +0900</pubDate>
+      
+      <guid>/taiki-shimalab/about/about/</guid>
+      <description>研究の中で作成したコードを分かり易くまとめたWebサイトです，</description>
+    </item>
+    
+  </channel>
+</rss>
