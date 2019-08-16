@@ -3,7 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/taiki-shimalab/categories/</loc>
+    <lastmod>2019-08-16T20:14:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taiki-shimalab/tags/hello/</loc>
+    <lastmod>2019-08-16T20:14:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taiki-shimalab/categories/hugo/</loc>
+    <lastmod>2019-08-16T20:14:27+09:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/taiki-shimalab/post/</loc>
+    <lastmod>2019-08-16T20:14:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taiki-shimalab/tags/</loc>
     <lastmod>2019-08-16T20:14:27+09:00</lastmod>
   </url>
   
@@ -13,16 +33,13 @@
   </url>
   
   <url>
-    <loc>/taiki-shimalab/post/catordog/</loc>
+    <loc>/taiki-shimalab/tags/world/</loc>
     <lastmod>2019-08-16T20:14:27+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/taiki-shimalab/categories/</loc>
-  </url>
-  
-  <url>
-    <loc>/taiki-shimalab/tags/</loc>
+    <loc>/taiki-shimalab/post/catordog/</loc>
+    <lastmod>2019-08-16T20:14:27+09:00</lastmod>
   </url>
   
 </urlset>

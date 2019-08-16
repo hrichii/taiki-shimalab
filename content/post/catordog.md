@@ -3,6 +3,9 @@
 title: "猫か犬かを識別するCNNの注視領域推定"
 date: 2019-08-16T20:14:27+09:00
 draft: false
+tags: ["hello","world"]
+categories: [ hugo"]
+
 ---
 #### Source
 
