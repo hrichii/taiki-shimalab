@@ -11,7 +11,7 @@ tags: ["FCN","UNet","組織型分類"]
 
 ### **Result**
 mIoU = 0.762
-{{< figure src="../media/bunet_prediction.jpg" title="テストデータに対する推定結果" class="center">}}
+<center>{{< figure src="../media/bunet_prediction.jpg" title="テストデータに対する推定結果" class="center">}}</center>
 
 ### **Source**
 
