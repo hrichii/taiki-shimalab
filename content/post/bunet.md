@@ -5,6 +5,9 @@ draft: false
 tags: ["FCN","UNet","組織型分類"]
 ---
 
+### Content
+{{< figure src="/media/bunet_prediction.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+
 #### Source
 
 - [Github](https://github.com/hrichii/dog_or_cat)
