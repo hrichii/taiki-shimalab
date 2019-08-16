@@ -6,7 +6,7 @@ tags: ["FCN","UNet","組織型分類"]
 ---
 
 ### Content
-{{< figure src="/media/bunet_prediction.jpg" title="Screenshot" class="center" width="320" height="640" >}}
+{{< figure src="taiki-shimalab/bunet_prediction.jpg" title="Screenshot" class="center" width="320" height="640" >}}
 
 #### Source
 
