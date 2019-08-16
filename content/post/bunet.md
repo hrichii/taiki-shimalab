@@ -15,5 +15,7 @@ mIoU = 0.762
 
 ### **Source**
 
-- [Github](https://github.com/hrichii/dog_or_cat)
-- [Asgard](<file://///asgard/usr/horiuchi/program/pro_dog_or_cat/dog_or_cat>)(Asgardへのアクセスはリンクのアドレスをエクスプローラーに貼付)
+- [Github](https://github.com/hrichii/dog_or_cat)【Code】
+- [Asgard](<file://///asgard/usr/horiuchi/program/pro_dog_or_cat/dog_or_cat>)【Code&Data】
+
+(Asgardへのアクセスはリンクのアドレスをエクスプローラーに貼付)
