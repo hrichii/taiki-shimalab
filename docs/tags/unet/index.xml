@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Posts on Taiki&#39;s works</title>
-    <link>/taiki-shimalab/post/</link>
-    <description>Recent content in Posts on Taiki&#39;s works</description>
+    <title>UNet on Taiki&#39;s works</title>
+    <link>/taiki-shimalab/tags/unet/</link>
+    <description>Recent content in UNet on Taiki&#39;s works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JA</language>
     <lastBuildDate>Fri, 16 Aug 2019 23:43:08 +0900</lastBuildDate>
     
-	<atom:link href="/taiki-shimalab/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/taiki-shimalab/tags/unet/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -18,15 +18,6 @@
       
       <guid>/taiki-shimalab/post/bunet/</guid>
       <description> Github Asgard(Asgardへのアクセスはリンクのアドレスをエクスプローラーに貼付)  </description>
-    </item>
-    
-    <item>
-      <title>猫か犬かを識別するCNNの注視領域推定</title>
-      <link>/taiki-shimalab/post/catordog/</link>
-      <pubDate>Fri, 16 Aug 2019 20:14:27 +0900</pubDate>
-      
-      <guid>/taiki-shimalab/post/catordog/</guid>
-      <description> Source  Github Asgard(Asgardへのアクセスはリンクのアドレスをエクスプローラーに貼付)  </description>
     </item>
     
   </channel>

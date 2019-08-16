@@ -3,43 +3,57 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/taiki-shimalab/categories/</loc>
-    <lastmod>2019-08-16T20:14:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/taiki-shimalab/tags/hello/</loc>
-    <lastmod>2019-08-16T20:14:27+09:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/taiki-shimalab/categories/hugo/</loc>
-    <lastmod>2019-08-16T20:14:27+09:00</lastmod>
+    <loc>/taiki-shimalab/tags/fcn/</loc>
+    <lastmod>2019-08-16T23:43:08+09:00</lastmod>
   </url>
   
   <url>
     <loc>/taiki-shimalab/post/</loc>
-    <lastmod>2019-08-16T20:14:27+09:00</lastmod>
+    <lastmod>2019-08-16T23:43:08+09:00</lastmod>
   </url>
   
   <url>
     <loc>/taiki-shimalab/tags/</loc>
-    <lastmod>2019-08-16T20:14:27+09:00</lastmod>
+    <lastmod>2019-08-16T23:43:08+09:00</lastmod>
   </url>
   
   <url>
     <loc>/taiki-shimalab/</loc>
+    <lastmod>2019-08-16T23:43:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taiki-shimalab/tags/tissue-type-classifiaction/</loc>
+    <lastmod>2019-08-16T23:43:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taiki-shimalab/tags/unet/</loc>
+    <lastmod>2019-08-16T23:43:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taiki-shimalab/post/bunet/</loc>
+    <lastmod>2019-08-16T23:43:08+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taiki-shimalab/tags/attention/</loc>
     <lastmod>2019-08-16T20:14:27+09:00</lastmod>
   </url>
   
   <url>
-    <loc>/taiki-shimalab/tags/world/</loc>
+    <loc>/taiki-shimalab/tags/cnn/</loc>
     <lastmod>2019-08-16T20:14:27+09:00</lastmod>
   </url>
   
   <url>
     <loc>/taiki-shimalab/post/catordog/</loc>
     <lastmod>2019-08-16T20:14:27+09:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taiki-shimalab/categories/</loc>
   </url>
   
 </urlset>

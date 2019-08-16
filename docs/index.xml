@@ -6,10 +6,19 @@
     <description>Recent content on Taiki&#39;s works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JA</language>
-    <lastBuildDate>Fri, 16 Aug 2019 20:14:27 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 16 Aug 2019 23:43:08 +0900</lastBuildDate>
     
 	<atom:link href="/taiki-shimalab/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>創傷領域切取画像を入力としたUNetによる組織型分類</title>
+      <link>/taiki-shimalab/post/bunet/</link>
+      <pubDate>Fri, 16 Aug 2019 23:43:08 +0900</pubDate>
+      
+      <guid>/taiki-shimalab/post/bunet/</guid>
+      <description> Github Asgard(Asgardへのアクセスはリンクのアドレスをエクスプローラーに貼付)  </description>
+    </item>
     
     <item>
       <title>猫か犬かを識別するCNNの注視領域推定</title>

@@ -1,13 +1,9 @@
 ---
-
-title: "猫か犬かを識別するCNNの注視領域推定"
-date: 2019-08-16T20:14:27+09:00
+title: "創傷領域切取画像を入力としたUNetによる組織型分類"
+date: 2019-08-16T23:43:08+09:00
 draft: false
-tags: ["Attention","CNN"]
-#categories: ["Attention","CNN"]
-
+tags: ["FCN","UNet","tissue type classifiaction"]
 ---
-#### Source
 
 - [Github](https://github.com/hrichii/dog_or_cat)
 - [Asgard](<file://///asgard/usr/horiuchi/program/pro_dog_or_cat/dog_or_cat>)(Asgardへのアクセスはリンクのアドレスをエクスプローラーに貼付)
