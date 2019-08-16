@@ -26,7 +26,8 @@
       <pubDate>Fri, 16 Aug 2019 23:43:08 +0900</pubDate>
       
       <guid>/taiki-shimalab/post/bunet/</guid>
-      <description> Content  テストデータに対する推定結果    Source  Github Asgard(Asgardへのアクセスはリンクのアドレスをエクスプローラーに貼付)  </description>
+      <description> Abstract 創傷以外を青く塗りつぶした画像30枚にデータ拡張を施し，UNetに学習させ，3種類の組織型分類を行った．
+Result mIoU = 0.762  テストデータに対する推定結果   Source  Github Asgard(Asgardへのアクセスはリンクのアドレスをエクスプローラーに貼付)  </description>
     </item>
     
   </channel>

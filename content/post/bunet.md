@@ -5,12 +5,15 @@ draft: false
 tags: ["FCN","UNet","組織型分類"]
 ---
 
-### **Content**
-<div class="center">
-{{< figure src="../media/bunet_prediction.jpg" title="テストデータに対する推定結果" class="center">}}
-</div>
+### **Abstract**
+創傷以外を青く塗りつぶした画像30枚にデータ拡張を施し，UNetに学習させ，3種類の組織型分類を行った．
 
-#### **Source**
+
+### **Result**
+mIoU = 0.762
+{{< figure src="../media/bunet_prediction.jpg" title="テストデータに対する推定結果" class="center">}}
+
+### **Source**
 
 - [Github](https://github.com/hrichii/dog_or_cat)
 - [Asgard](<file://///asgard/usr/horiuchi/program/pro_dog_or_cat/dog_or_cat>)(Asgardへのアクセスはリンクのアドレスをエクスプローラーに貼付)
