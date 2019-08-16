@@ -1,4 +1,4 @@
-baseurl = "/taiki-shimalab"
+baseurl = "/taiki-shimalab/"
 languageCode = "ja-JA"
 title = "Taiki's works"
 theme = "minimal"
