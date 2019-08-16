@@ -1,5 +1,5 @@
 baseurl = "http://hrichii.github.io/taiki-shimalab/"
-languageCode = "en-us"
+languageCode = "ja-JA"
 title = "Taiki's works"
 theme = "minimal"
 disqusShortname = "username" # delete this to disable disqus comments
@@ -8,7 +8,7 @@ publishDir = "docs"
 
 [params]
     author = "Taiki Horiuchi"
-    description = "at Shima lab2"
+    description = "at Shima lab"
     githubUsername = "#"
     accent = "orange"
     showBorder = true
