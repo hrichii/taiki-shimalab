@@ -6,10 +6,37 @@
     <description>Recent content in Tags on Taiki&#39;s works</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-JA</language>
-    <lastBuildDate>Fri, 16 Aug 2019 23:49:04 +0900</lastBuildDate>
+    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/taiki-shimalab/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>docstring</title>
+      <link>/taiki-shimalab/tags/docstring/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/taiki-shimalab/tags/docstring/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Python</title>
+      <link>/taiki-shimalab/tags/python/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/taiki-shimalab/tags/python/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Sphinx</title>
+      <link>/taiki-shimalab/tags/sphinx/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/taiki-shimalab/tags/sphinx/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>FCN</title>

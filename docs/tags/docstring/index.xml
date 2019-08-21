@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>docstring on Taiki&#39;s works</title>
+    <link>/taiki-shimalab/tags/docstring/</link>
+    <description>Recent content in docstring on Taiki&#39;s works</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ja-JA</language>
+    <lastBuildDate>Wed, 21 Aug 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/taiki-shimalab/tags/docstring/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Pythonのソースコードに書かれたコメントから仕様書生成</title>
+      <link>/taiki-shimalab/post/sphinx/</link>
+      <pubDate>Wed, 21 Aug 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/taiki-shimalab/post/sphinx/</guid>
+      <description>Abstract pythonのソースコードに適切にコメントすることでsphinxを使って仕様書(.html)を生成する
+Content docstringを読み込んで仕様書を生成 # sphinxのインストール $ pip install sphinx # 現在のディレクトリ構成 $ tree /f C:. └─src main.py submodule.py # sphinxのプロジェクト作成 $ sphinx-quickstart docs --project=project &amp;gt; Separate source and build directories (y/n) [n]: &amp;gt; Project name: project_name &amp;gt; Author name(s): Taiki Horiuchi &amp;gt; Project release []: 1.0.0 &amp;gt; Project language [en]: ja #オプションで予め定義できる #$ sphinx-quickstart --sep --author==TaikiHoriuchi -v 1.0.0 -r 1.0.0 --language==ja --no-makefile --no-batchfile --extensions=[&#39;sphinx.ext.autodoc&#39;,&#39;sphinx.ext.githubpages&#39;,&#39;sphinx.ext.napoleon&#39;] docs --project=project_name # conf.pyを開く $ start docs\conf.</description>
+    </item>
+    
+  </channel>
+</rss>
