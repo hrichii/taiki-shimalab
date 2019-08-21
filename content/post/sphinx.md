@@ -76,7 +76,7 @@ $ start docs\_build\index.html
 # GithubPagesで仕様書を公開するときは.nojekyllファイルをHTMLディレクトリ内に作成
 $ copy nul docs\_build\.nojekyll
 ```
-今回作成したhtmlが[こちら](/_build/index.html)
+今回作成したhtmlが[こちら](_build/index.html)
 
 リポジトリを公開しても良いならGithubPagesを使えば仕様書をgithub上で見せられる．
 
