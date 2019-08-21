@@ -1,5 +1,5 @@
 ---
-title: "Pythonのソースコードのコメントから仕様書生成"
+title: "Pythonソースコードのコメントから仕様書生成"
 date: 2019-08-21
 draft: false
 tags: ["Sphinx", "Python", "docstring"]
