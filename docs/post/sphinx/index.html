@@ -170,7 +170,7 @@ $ sphinx-quickstart docs
 &gt; Project language [en]: ja
 
 # オプションで予め定義できる
-#$ sphinx-quickstart --sep --author==TaikiHoriuchi -v 1.0.0  -r 1.0.0  --language==ja --no-makefile --no-batchfile --extensions=['sphinx.ext.autodoc','sphinx.ext.githubpages','sphinx.ext.napoleon'] docs --project=project_name
+#$ sphinx-quickstart docs --author=TaikiHoriuchi -v 1.0.0  -r 1.0.0  --language=ja --no-makefile --no-batchfile --extensions=sphinx.ext.autodoc,sphinx.ext.githubpages,sphinx.ext.napoleon --dot=&quot;&quot; --project=project_name
 
 # conf.pyを開く
 $ start docs\conf.py
@@ -204,16 +204,17 @@ extensions = ['sphinx.ext.autodoc' ,'sphinx.ext.githubpages', 'sphinx.ext.napole
 $ sphinx-apidoc -f -o ./docs ./src
 
 # rstからhtmlを生成
-$ sphinx-build -b singlehtml ./docs ./docs/_build
+$ sphinx-build -b singlehtml ./docs ./docs/build
 
 # html確認
 $ start docs\_build\index.html
 
-# GithubPagesで仕様書を公開するときは.nojekyllファイルをHTMLディレクトリ内に作成
-$ copy nul docs\_build\.nojekyll
+#$ xcopy docs\build %HOMEPATH%\Desktop\taiki@shimalab\docs\post\sphinx\ /E
 </code></pre>
 
-<p>今回作成したhtmlが<a href="_build/index.html">こちら</a></p>
+<p>今回作成したhtmlが<a href="build/index.html">こちら</a></p>
+
+<p>※ディレクトリに<code>_</code>があるとHTMLをリンクできない(何故かよくわかりません)</p>
 
 <p>リポジトリを公開しても良いならGithubPagesを使えば仕様書をgithub上で見せられる．</p>
 

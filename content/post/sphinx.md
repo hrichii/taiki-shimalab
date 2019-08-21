@@ -73,11 +73,8 @@ $ sphinx-build -b singlehtml ./docs ./docs/build
 # html確認
 $ start docs\_build\index.html
 
-# GithubPagesで仕様書を公開するときは.nojekyllファイルをHTMLディレクトリ内に作成
-$ copy nul docs\_build\.nojekyll
+#$ xcopy docs\build %HOMEPATH%\Desktop\taiki@shimalab\docs\post\sphinx\ /E
 ```
-
-
 
 今回作成したhtmlが[こちら](build/index.html)
 
