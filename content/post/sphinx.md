@@ -73,7 +73,11 @@ $ sphinx-build -b singlehtml ./docs ./docs/build
 # html確認
 $ start docs\_build\index.html
 
+# 以下は蛇足です
+# 記事を生成したフォルダにhtmlを含むbuildフォルダをコピー
 #$ xcopy docs\build %HOMEPATH%\Desktop\taiki@shimalab\docs\post\sphinx\ /E
+# build\_static -> build\staticに変更
+# build\index.htmlを開き _statiをstaticに置換
 ```
 
 今回作成したhtmlが[こちら](build/index.html)
