@@ -1,12 +1,12 @@
 ---
-title: "Pythonのソースコードに書かれたコメントから仕様書生成"
+title: "Pythonのソースコードのコメントから仕様書生成"
 date: 2019-08-21
 draft: false
 tags: ["Sphinx", "Python", "docstring"]
 ---
 
 ### **Abstract**
-pythonのソースコードに適切にコメントすることでsphinxを使って仕様書(.html)を生成する
+pythonのソースコードにdocstring記法のコメントをすることでsphinxを使って仕様書(.html)を生成する
 
 ### **Content**
 #### docstringを読み込んで仕様書を生成
@@ -30,7 +30,7 @@ $ sphinx-quickstart docs --project=project
 > Project release []: 1.0.0
 > Project language [en]: ja
 
-#オプションで予め定義できる
+# オプションで予め定義できる
 #$ sphinx-quickstart --sep --author==TaikiHoriuchi -v 1.0.0  -r 1.0.0  --language==ja --no-makefile --no-batchfile --extensions=['sphinx.ext.autodoc','sphinx.ext.githubpages','sphinx.ext.napoleon'] docs --project=project_name
 
 # conf.pyを開く
@@ -78,6 +78,10 @@ $ copy nul docs\_build\.nojekyll
 ```
 今回作成したhtmlが[こちら](API.html)
 
+リポジトリを公開しても良いならGithubPagesを使えば仕様書をgithub上で見せられる．
+
+よきかな
+
 ### **References**
 - [Qiita sphinxでドキュメント作成からWeb公開までをやってみた](https://qiita.com/kinpira/items/505bccacb2fba89c0ff0)
 - [Qiita Sphinxの使い方．docstringを読み込んで仕様書を生成](https://qiita.com/futakuchi0117/items/4d3997c1ca1323259844)
@@ -85,7 +89,7 @@ $ copy nul docs\_build\.nojekyll
 
 ### **Source**
 
-- [Github](https://github.com/hrichii/dog_or_cat)【Code】
-- [Asgard](<file://///asgard/usr/horiuchi/program/pro_dog_or_cat/dog_or_cat>)【Code&Data】
+- [Github](https://github.com/hrichii/sample_sphinx)【Code】
+- [Asgard](<file://///asgard/usr/horiuchi/program/pro_sphinx/repo_sphinx>)【Code】
 
 (Asgardへのアクセスはリンクのアドレスをエクスプローラーに貼付)
