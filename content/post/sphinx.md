@@ -23,10 +23,10 @@ C:.
         submodule.py
 
 # sphinxのプロジェクト作成
-$ sphinx-quickstart docs --project=project
-> Separate source and build directories (y/n) [n]:
+$ sphinx-quickstart docs
+> Separate source and build directories (y/n) [n]:n
 > Project name: project_name
-> Author name(s): Taiki Horiuchi
+> Author name(s): TaikiHoriuchi
 > Project release []: 1.0.0
 > Project language [en]: ja
 

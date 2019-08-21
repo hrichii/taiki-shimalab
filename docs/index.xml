@@ -18,7 +18,7 @@
       
       <guid>/taiki-shimalab/post/sphinx/</guid>
       <description>Abstract pythonのソースコードにdocstring記法のコメントをすることでsphinxを使って仕様書(.html)を生成する
-Content docstringを読み込んで仕様書を生成 # sphinxのインストール $ pip install sphinx # 現在のディレクトリ構成 $ tree /f C:. └─src main.py submodule.py # sphinxのプロジェクト作成 $ sphinx-quickstart docs --project=project &amp;gt; Separate source and build directories (y/n) [n]: &amp;gt; Project name: project_name &amp;gt; Author name(s): Taiki Horiuchi &amp;gt; Project release []: 1.0.0 &amp;gt; Project language [en]: ja # オプションで予め定義できる #$ sphinx-quickstart --sep --author==TaikiHoriuchi -v 1.0.0 -r 1.0.0 --language==ja --no-makefile --no-batchfile --extensions=[&#39;sphinx.ext.autodoc&#39;,&#39;sphinx.ext.githubpages&#39;,&#39;sphinx.ext.napoleon&#39;] docs --project=project_name # conf.</description>
+Content docstringを読み込んで仕様書を生成 # sphinxのインストール $ pip install sphinx # 現在のディレクトリ構成 $ tree /f C:. └─src main.py submodule.py # sphinxのプロジェクト作成 $ sphinx-quickstart docs &amp;gt; Separate source and build directories (y/n) [n]:n &amp;gt; Project name: project_name &amp;gt; Author name(s): TaikiHoriuchi &amp;gt; Project release []: 1.0.0 &amp;gt; Project language [en]: ja # オプションで予め定義できる #$ sphinx-quickstart --sep --author==TaikiHoriuchi -v 1.0.0 -r 1.0.0 --language==ja --no-makefile --no-batchfile --extensions=[&#39;sphinx.ext.autodoc&#39;,&#39;sphinx.ext.githubpages&#39;,&#39;sphinx.ext.napoleon&#39;] docs --project=project_name # conf.pyを開く $ start docs\conf.</description>
     </item>
     
     <item>
