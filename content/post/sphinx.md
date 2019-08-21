@@ -31,7 +31,7 @@ $ sphinx-quickstart docs
 > Project language [en]: ja
 
 # オプションで予め定義できる
-#$ sphinx-quickstart --sep --author==TaikiHoriuchi -v 1.0.0  -r 1.0.0  --language==ja --no-makefile --no-batchfile --extensions=['sphinx.ext.autodoc','sphinx.ext.githubpages','sphinx.ext.napoleon'] docs --project=project_name
+#$ sphinx-quickstart docs --author=TaikiHoriuchi -v 1.0.0  -r 1.0.0  --language=ja --no-makefile --no-batchfile --extensions=sphinx.ext.autodoc,sphinx.ext.githubpages,sphinx.ext.napoleon --dot="" --project=project_name
 
 # conf.pyを開く
 $ start docs\conf.py
@@ -68,7 +68,7 @@ extensions = ['sphinx.ext.autodoc' ,'sphinx.ext.githubpages', 'sphinx.ext.napole
 $ sphinx-apidoc -f -o ./docs ./src
 
 # rstからhtmlを生成
-$ sphinx-build -b singlehtml ./docs ./docs/_build
+$ sphinx-build -b singlehtml ./docs ./docs/build
 
 # html確認
 $ start docs\_build\index.html
@@ -76,7 +76,12 @@ $ start docs\_build\index.html
 # GithubPagesで仕様書を公開するときは.nojekyllファイルをHTMLディレクトリ内に作成
 $ copy nul docs\_build\.nojekyll
 ```
-今回作成したhtmlが[こちら](_build/index.html)
+
+
+
+今回作成したhtmlが[こちら](build/index.html)
+
+※ディレクトリに```_```があるとHTMLをリンクできない(何故かよくわかりません)
 
 リポジトリを公開しても良いならGithubPagesを使えば仕様書をgithub上で見せられる．
 
