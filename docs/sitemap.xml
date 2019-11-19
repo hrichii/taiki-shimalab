@@ -1,14 +1,24 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/taiki-shimalab/tags/docstring/</loc>
-    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
+    <loc>/taiki-shimalab/post/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/taiki-shimalab/post/</loc>
+    <loc>/taiki-shimalab/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taiki-shimalab/post/unet_attention/</loc>
+    <lastmod>2019-08-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>/taiki-shimalab/tags/docstring/</loc>
     <lastmod>2019-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -29,11 +39,6 @@
   
   <url>
     <loc>/taiki-shimalab/tags/</loc>
-    <lastmod>2019-08-21T00:00:00+00:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>/taiki-shimalab/</loc>
     <lastmod>2019-08-21T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,7 +83,7 @@
   </url>
   
   <url>
-    <loc>/taiki-shimalab/post/catordog/</loc>
+    <loc>/taiki-shimalab/post/dog_or_cat/</loc>
     <lastmod>2019-08-16T20:14:27+09:00</lastmod>
   </url>
   

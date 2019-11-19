@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>犬猫識別 on Taiki&#39;s works</title>
@@ -13,10 +13,10 @@
     
     <item>
       <title>猫か犬かを識別するCNNの注視領域推定</title>
-      <link>/taiki-shimalab/post/catordog/</link>
+      <link>/taiki-shimalab/post/dog_or_cat/</link>
       <pubDate>Fri, 16 Aug 2019 20:14:27 +0900</pubDate>
       
-      <guid>/taiki-shimalab/post/catordog/</guid>
+      <guid>/taiki-shimalab/post/dog_or_cat/</guid>
       <description> API  API
 Source Github
  Asgard(Asgardへのアクセスはリンクのアドレスをエクスプローラーに貼付)
